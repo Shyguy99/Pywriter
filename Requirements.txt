@@ -1,0 +1,16 @@
+pip install SpeechRecognition
+
+------------
+#if python above 3.6 then
+
+pip install pipwin
+pipwin install pyaudio
+
+#else
+pip install pyaudio
+------------
+
+#if installed uninstall typing
+pip uninstall typing
+------------
+pip install pyautogui
